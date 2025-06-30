@@ -1,3 +1,2 @@
 # Python Fundamentals
-- types
-- slicing
+- type
